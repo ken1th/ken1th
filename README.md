@@ -17,6 +17,11 @@ Here, I merge my passion for data, technology, and storytelling to create meanin
 
 ## 🚀 **Featured Projects**
 
+### 🎮 **[Battlefield Gameplay Data Simulation & Retention Analysis](https://github.com/ken1th/battlefield-gameplay-retention-analysis)**
+- Gameplay Data Simulation – Modeled player engagement, retention, and match performance.
+- Retention Analysis & Dashboard – Analyzed trends with BigQuery SQL & visualized insights in Looker Studio.
+<img src="https://github.com/ken1th/battlefield-gameplay-retention-analysis/blob/main/dashboard_snapshot.png" width ="300"/>
+
 ### 🎮 **[Impact of League of Legends Release on NA Video Game Sales](https://github.com/ken1th/LOL-VideoGame-casualimpact)**  
 - Analyzed sales trends post-*LoL* release using **CausalImpact** in R.  
 - Visualized insights with **R Markdown** to communicate findings effectively.
@@ -64,7 +69,7 @@ Here, I merge my passion for data, technology, and storytelling to create meanin
 
 - 💌 Email: [kenith.ckl@gmail.com](mailto:kenith.ckl@gmail.com)  
 - 🐙 GitHub: [github.com/ken1th](https://github.com/ken1th)  
-- 🌟 LinkedIn: [linkedin.com/in/kenithckl](#)
+- 🌟 LinkedIn: [linkedin.com/in/kenithckl](https://linkedin.com/in/kenithckl)
 
 ---
 
