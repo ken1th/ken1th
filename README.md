@@ -9,7 +9,7 @@ Here, I merge my passion for data, technology, and storytelling to create meanin
 
 ## 🔧 **Skills & Tools**
 
-- **Languages & Tools**: SQL, R, Python, Tableau, API Integration, Bash Scripting, GCP, Azure  
+- **Languages & Tools**: SQL, R, Python, Power BI, Looker, Tableau, API Integration, Bash Scripting, GCP, Azure  
 - **Buzzwords**: Data Visualization, Statistical Modeling, Causal Analysis, Automation, Collaborative Coding  
 - **Platforms**: Google Analytics, Power Automate, Visual Studio Code  
 
