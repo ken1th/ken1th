@@ -17,7 +17,7 @@ Here, I merge my passion for data, technology, and storytelling to create meanin
 
 ## 🚀 **Featured Projects**
 
-### 🎮 **[Battlefield Gameplay Data Simulation & Retention Analysis](https://github.com/ken1th/battlefield-gameplay-retention-analysis)**
+### 🎮 **[SQL-Powered Analytics: Cohort-Based Retention & Performance Metrics in Gaming](https://github.com/ken1th/battlefield-gameplay-retention-analysis)**
 - Gameplay Data Simulation – Modeled player engagement, retention, and match performance.
 - Retention Analysis & Dashboard – Analyzed trends with BigQuery SQL & visualized insights in Looker Studio.
 <img src="https://github.com/ken1th/battlefield-gameplay-retention-analysis/blob/main/dashboard_snapshot.png" width ="300"/>
@@ -27,12 +27,12 @@ Here, I merge my passion for data, technology, and storytelling to create meanin
 - Visualized insights with **R Markdown** to communicate findings effectively.
 <img src="https://github.com/ken1th/LOL-VideoGame-casualimpact/blob/main/2_analysis/causal_impact_plot.png" width="300"/>
 
-### 🎲 **[Lottery Preferences Across Cultures](https://github.com/ken1th/Number-Preferences-Study)**  
+### 🎲 **[From Data to Strategy: Number Preferences in a Diverse Market](https://github.com/ken1th/Number-Preferences-Study)**  
 - Built a **dynamic web scraping pipeline** to analyze cultural influences on number preferences.  
 - Delivered actionable insights for industries like real estate and marketing.
 <img src="https://github.com/ken1th/Number-Preferences-Study/blob/master/lottery_number_popularity.png" width="300"/>
 
-### 🤖 **[DiscordGPT Bot](https://github.com/uoftpwb/DiscordGPT)**  
+### 🤖 **[DiscordGPT: Enhancing AI Interactions in Discord Communities](https://github.com/uoftpwb/DiscordGPT)**  
 - Enhanced AI interactions in Discord communities using **Node.js** and **OpenAI API**.  
 - Developed secure environments and user-friendly deployment guides.
 
