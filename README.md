@@ -21,6 +21,7 @@ Here, I merge my passion for data, technology, and storytelling to create meanin
 - XGBoost Classifier – Built a machine learning model to classify Steam reviews for Battlefield 2042 as recommended or not.
 - Data Processing & Feature Engineering – Extended from ken1th/SteamReviewsAnalysis, focused on preparing review text and metadata for modeling.
 - Jupyter Notebook Exploration – All analysis and modeling performed in reproducible Jupyter Notebooks.
+
 <img src="https://github.com/ken1th/SteamReview_XGBoost/blob/main/shap_summary.png" height ="200"/><img src="https://github.com/ken1th/SteamReview_XGBoost/blob/main/model_performance_curves.png" height ="200"/>
 
 ### 🎮 **[SQL-Powered Analytics: Cohort-Based Retention & Performance Metrics in Gaming](https://github.com/ken1th/battlefield-gameplay-retention-analysis)**
