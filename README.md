@@ -24,6 +24,12 @@ Here, I merge my passion for data, technology, and storytelling to create meanin
 
 <img src="https://github.com/ken1th/SteamReview_XGBoost/blob/main/shap_summary.png" height ="200"/><img src="https://github.com/ken1th/SteamReview_XGBoost/blob/main/model_performance_curves.png" height ="200"/>
 
+### 📝 **[Steam Review Analysis: Battlefield 2042 Insights Pipeline](https://github.com/ken1th/SteamReviewAnalysis)**
+- Review Data Pipeline – Fetched, processed, and analyzed Battlefield 2042 Steam reviews using Python scripts.
+- Data Warehousing & Visualization – Loaded reviews into BigQuery and visualized sentiment and trends in Looker Studio.
+<img src="https://github.com/ken1th/SteamReviewAnalysis/blob/main/dashboard_snapshot.png" width="300"/>
+
+
 ### 🎮 **[SQL-Powered Analytics: Cohort-Based Retention & Performance Metrics in Gaming](https://github.com/ken1th/battlefield-gameplay-retention-analysis)**
 - Gameplay Data Simulation – Modeled player engagement, retention, and match performance.
 - Retention Analysis & Dashboard – Analyzed trends with BigQuery SQL & visualized insights in Looker Studio.
